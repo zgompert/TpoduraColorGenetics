@@ -16,7 +16,7 @@ We currenlty have three (x2) phased *T. podura* genomes, with more in the works.
 | 24_0154 h1 | BMT C | Green | | |
 | 24_0154 h2 | BMT C | Green | | |
 
-My first step with each genome is to split the fasta into files per haplotype and then to run repeat masking. This is done with `repeatmasker` (version 4.0.7); here is an example with 24_0140 and 24_0154:
+My first step with each genome is to split the fasta into files per haplotype and then to run repeat masking. This is done with `repeatmasker` (version 4.0.7); here is an example with 24_0140 and 24_0154 (see `RunRMPodura26a.sh` in `/uufs/chpc.utah.edu/common/home/gompert-group4/data/timema/hic_genomes/repeat_mask`:
 
 ```bash
 #!/bin/sh 
