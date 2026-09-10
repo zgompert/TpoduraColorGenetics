@@ -5,12 +5,12 @@ Research on the genetic basis of color in *T. podura* based on comparative genom
 My goal is to resolve the genetic basis of color pattern morphs in *T. podura*, with a focus on how this might differ at lower versus higher elevation sites and how it differs from (or not) what we see in *T. cristinae* and *T. chumahs*. Given what we have seen in this species and what we have already done in *T. podura*, my expectation is that chromosomal rearrangemetns (i.e., structural variation or SV) will be involved (associated or causal) (e.g., [Comeault et al. 2016](https://academic.oup.com/evolut/article-abstract/70/6/1283/6852167), [Villoutreix et al. 2020](https://www.science.org/doi/abs/10.1126/science.aaz4351)). My plans for this include GWA of color (using new and existing data), comparative alignments of multiple phased *T. podura* genomes and some local PCA analyses (among other things that remain TBD).
 
 # Genomes and comparative alignments
-We currenlty have three (x2) phased *T. podura* genomes, with more in the works. I don't think any of these three have been published yet. The first of these is from Dovetail (CEN4021), whereas all of the rest are (and will be) from Edinburgh. We expect to have at least 8x2 = 16 *T. podura genomes* (that is, at lest five more indiviudals that what we have at present). Everything is in `/uufs/chpc.utah.edu/common/home/gompert-group4/data/timema/hic_genomes` or `/uufs/chpc.utah.edu/common/home/gompert-group4/data/timema/hic_genomes/edinburgh`. Here ist he breakdown of what we have:
+We currenlty have three (x2) phased *T. podura* genomes, with more in the works. I don't think any of these three have been published yet. The first of these is from Dovetail (CEN4021), whereas all of the rest are (and will be) from Edinburgh. We expect to have at least 8x2 = 16 *T. podura genomes* (that is, at lest five more indiviudals that what we have at present). Everything is in `/uufs/chpc.utah.edu/common/home/gompert-group4/data/timema/hic_genomes/t_podura_hap_cen4121` or `/uufs/chpc.utah.edu/common/home/gompert-group4/data/timema/hic_genomes/edinburgh`. Here ist he breakdown of what we have:
 
 | ID  | Location | Phenotype | Cactus | Annotation | 
 |---------|-----|---------|:-:|:-:|
-| cen4121 h1 | XX | Melanic | | |
-| cen4121 h2 | XX | Melanic | | |
+| [cen4121 h1](https://github.com/user-attachments/files/32068438/CEN4121h1_report.html) | XX | Melanic | | |
+| [cen4121 h2](https://github.com/user-attachments/files/32068436/CEN4121h2_report.html) | XX | Melanic | | |
 | 24_0140 h1 | DZR A | Melanic | | |
 | 24_0140 h2 | DZR A | Melanic | | |
 | 24_0154 h1 | BMT C | Green | | |
