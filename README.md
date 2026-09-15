@@ -9,8 +9,8 @@ We currenlty have three (x2) phased *T. podura* genomes, with more in the works.
 
 | ID  | Location | Phenotype | Cactus | Annotation | 
 |---------|-----|---------|:-:|:-:|
-| [cen4121 h1](https://github.com/user-attachments/files/32068438/CEN4121h1_report.html) | XX | Melanic | | |
-| [cen4121 h2](https://github.com/user-attachments/files/32068436/CEN4121h2_report.html) | XX | Melanic | | |
+| [cen4121 h1](https://github.com/user-attachments/files/32068438/CEN4121h1_report.html) | XX | Melanic | Y | |
+| [cen4121 h2](https://github.com/user-attachments/files/32068436/CEN4121h2_report.html) | XX | Melanic | Y | |
 | 24_0140 h1 | DZR A | Melanic | Y | |
 | 24_0140 h2 | DZR A | Melanic | Y | |
 | 24_0154 h1 | BMT C | Green | Y | |
