@@ -62,7 +62,17 @@ wait
 ```
 I moved the output from the comparative alignments (along with copies of scripts) to .
 
-I then created synteny heatmaps and dot plots in R, see [SynPlotsPodura.R](SynPlotsPodura.R) (this includes some earlier comparisons with *T. cristinae*). My take thus far is that only h1 from 24_0154 is a ``green" allele, as it harbors a large deletion on chromosome 8 relative to the rest. But we will see if this holds with more data.
+I then created synteny heatmaps and dot plots in R, see [SynPlotsPodura.R](SynPlotsPodura.R) (this includes some earlier comparisons with *T. cristinae*). My take thus far is that only h1 from 24_0154 is a ``green" allele, as it harbors a large deletion on chromosome 8 relative to the rest. But we will see if this holds with more data. Here are the dot plots I have so far: [AlnTpod_TpodH1_TpodE240140H1.pdf](https://github.com/user-attachments/files/32255231/AlnTpod_TpodH1_TpodE240140H1.pdf)
+[AlnTpod_TpodH1_TpodE240154H1.pdf](https://github.com/user-attachments/files/32255230/AlnTpod_TpodH1_TpodE240154H1.pdf)
+[AlnTpod_TpodH1_TpodE240140H2.pdf](https://github.com/user-attachments/files/32255228/AlnTpod_TpodH1_TpodE240140H2.pdf)
+[AlnTpod_TpodH1_TpodE240154H2.pdf](https://github.com/user-attachments/files/32255227/AlnTpod_TpodH1_TpodE240154H2.pdf)
+[AlnTpod_TpodE240140H1_podE240154H2.pdf](https://github.com/user-attachments/files/32255226/AlnTpod_TpodE240140H1_podE240154H2.pdf)
+[AlnTpod_TpodE240140H2_podE240154H1.pdf](https://github.com/user-attachments/files/32255225/AlnTpod_TpodE240140H2_podE240154H1.pdf)
+[AlnTpod_TpodE240140H2_podE240154H2.pdf](https://github.com/user-attachments/files/32255224/AlnTpod_TpodE240140H2_podE240154H2.pdf)
+[AlnTpod_TpodE240154H1_podE240154H2.pdf](https://github.com/user-attachments/files/32255223/AlnTpod_TpodE240154H1_podE240154H2.pdf)
+[AlnTpod_TpodE240140H1_podE240140H2.pdf](https://github.com/user-attachments/files/32255222/AlnTpod_TpodE240140H1_podE240140H2.pdf)
+[AlnTpod_TpodE240140H1_podE240154H1.pdf](https://github.com/user-attachments/files/32255220/AlnTpod_TpodE240140H1_podE240154H1.pdf)
+
 
 Next steps are:
 
