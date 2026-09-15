@@ -60,3 +60,12 @@ done
 # Wait for all remaining background jobs to finish
 wait
 ```
+I moved the output from the comparative alignments (along with copies of scripts) to .
+
+I then created synteny heatmaps and dot plots in R, see [SynPlotsPodura.R](SynPlotsPodura.R) (this includes some earlier comparisons with *T. cristinae*). My take thus far is that only h1 from 24_0154 is a ``green" allele, as it harbors a large deletion on chromosome 8 relative to the rest. But we will see if this holds with more data.
+
+Next steps are:
+
+1. GWA with existing GBS data, some combination of BSC, BMTC and IVC.
+2. Sequence one moe green genome from low on the mountain.
+3. Sequence four additional genomes from higher up on the mountain, including intermediate (yellow) and red morphs.
