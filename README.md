@@ -11,10 +11,10 @@ We currenlty have three (x2) phased *T. podura* genomes, with more in the works.
 |---------|-----|---------|:-:|:-:|
 | [cen4121 h1](https://github.com/user-attachments/files/32068438/CEN4121h1_report.html) | XX | Melanic | | |
 | [cen4121 h2](https://github.com/user-attachments/files/32068436/CEN4121h2_report.html) | XX | Melanic | | |
-| 24_0140 h1 | DZR A | Melanic | | |
-| 24_0140 h2 | DZR A | Melanic | | |
-| 24_0154 h1 | BMT C | Green | | |
-| 24_0154 h2 | BMT C | Green | | |
+| 24_0140 h1 | DZR A | Melanic | Y | |
+| 24_0140 h2 | DZR A | Melanic | Y | |
+| 24_0154 h1 | BMT C | Green | Y | |
+| 24_0154 h2 | BMT C | Green | Y | |
 
 My first step with each genome is to split the fasta into files per haplotype and then to run repeat masking. This is done with `repeatmasker` (version 4.0.7); here is an example with 24_0140 and 24_0154 (see `RunRMPodura26a.sh` in `/uufs/chpc.utah.edu/common/home/gompert-group4/data/timema/hic_genomes/repeat_mask`:
 
